@@ -40,6 +40,18 @@ return (
 });
 </script>
 
+
+Stateless Functional Componeents :9  Benefits:
+-no class needed
+-avoid 'this' keyword
+-enforced best practices
+-high signal-to-noise ratio
+-enhanced code completion/intelisense
+-bloated components are obvious
+-easy to understand
+-easy to test
+-performance
+
 documentation:
 https://babeljs.io/docs/en/learn
 https://webpack.github.io/
