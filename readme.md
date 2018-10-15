@@ -30,7 +30,7 @@ EsLint -- alerting , when there are mistakes in the code
 
 ES6 Class Compoenent
 
-<script>
+```
 var HelloWorld = React.createClass({
 render:function(){ 
 return ( 
@@ -38,7 +38,7 @@ return (
 );
 }
 });
-</script>
+```
 
 documentation:
 https://babeljs.io/docs/en/learn
